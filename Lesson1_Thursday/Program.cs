@@ -16,7 +16,7 @@ namespace Lesson1_Thursday
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new frmWelcome());
         }
     }
 }
