@@ -16,5 +16,10 @@ namespace Lesson1_Thursday
         {
             InitializeComponent();
         }
+
+        private void btnEnglish_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

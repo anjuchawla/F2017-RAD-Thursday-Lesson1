@@ -71,6 +71,7 @@
             this.btnEnglish.TabIndex = 3;
             this.btnEnglish.Text = "&English";
             this.btnEnglish.UseVisualStyleBackColor = true;
+            this.btnEnglish.Click += new System.EventHandler(this.btnEnglish_Click);
             // 
             // btnSpanish
             // 
